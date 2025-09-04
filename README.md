@@ -1,3 +1,3 @@
 # Pesquisa Quantitativa 2
 
-Repositório do material do curso: anealise de dados usando python
+Repositório do material do curso: análise de dados usando python
